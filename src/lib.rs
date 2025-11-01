@@ -15,6 +15,7 @@
 //! - [`Rotate270`]: Rotate the display by 270 degrees.
 //!
 //! ![A grid of displays with different coordinate transforms applied.](https://raw.githubusercontent.com/msvisser/embedded-graphics-coordinate-transform/main/assets/overview.png)
+#![no_std]
 
 #[cfg(test)]
 mod tests;
