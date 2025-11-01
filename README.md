@@ -5,6 +5,8 @@
 
 Wrappers for rotating, mirroring, and transposing embedded graphics displays.
 
+![A grid of displays with different coordinate transforms applied.](assets/overview.png)
+
 ## Minimum supported Rust version
 
 The `embedded-graphics-coordinate-transform` crate is tested to compile on the latest stable Rust release.
