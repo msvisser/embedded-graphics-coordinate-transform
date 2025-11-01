@@ -1,10 +1,10 @@
+use core::ops::{Deref, DerefMut};
 use embedded_graphics_core::{
     draw_target::DrawTarget,
     geometry::{OriginDimensions, Point, Size},
     primitives::Rectangle,
     Pixel,
 };
-use std::ops::{Deref, DerefMut};
 
 /// A generic coordinate transform that can both mirror along the x and y axes and transpose.
 ///
