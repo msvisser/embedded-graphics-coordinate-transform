@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - #1 Project setup: add README.md, CHANGELOG.md, LICENCE-MIT/APACHE and release.toml
+- #2 Add implementation for transform, tests and example
 
 <!-- next-url -->
 [unreleased]: https://github.com/msvisser/embedded-graphics-coordinate-transform/compare/5bd9aa7ce7295126e85b3baca9e73b6460614677...HEAD
