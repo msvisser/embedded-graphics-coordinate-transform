@@ -2,5 +2,10 @@
 name = "embedded-graphics-coordinate-transform"
 version = "0.1.0"
 edition = "2024"
+description = "Wrappers for rotating, mirroring, and transposing embedded graphics displays"
+repository = "https://github.com/msvisser/embedded-graphics-coordinate-transform"
+license = "MIT OR Apache-2.0"
+keywords = ["embedded-graphics", "rotate", "mirror", "embedded"]
+categories = ["embedded", "no-std"]
 
 [dependencies]
