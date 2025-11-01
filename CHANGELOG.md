@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - ReleaseDate
 
+## [0.1.1] - 2025-11-01
+
 ## Changed
 
 - #3 Make the crate build with no_std
@@ -21,5 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - #2 Add implementation for transform, tests and example
 
 <!-- next-url -->
-[unreleased]: https://github.com/msvisser/embedded-graphics-coordinate-transform/compare/v0.1.0...HEAD
+[unreleased]: https://github.com/msvisser/embedded-graphics-coordinate-transform/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/msvisser/embedded-graphics-coordinate-transform/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/msvisser/embedded-graphics-coordinate-transform/compare/5bd9aa7ce7295126e85b3baca9e73b6460614677...v0.1.0
